@@ -1,9 +1,8 @@
-₊ ⊹ hi, I’m @raniamaaraba (wren-ya, just like the bird!)
-⭒ i’m interested in creating programs that enhance the daily usage of technology (especially for the family and folks around me)
-°❀⋆.ೃ࿔*:･ i’m currently a student at the University of Cincinnati
-.𖥔 ݁ ˖ i’m primarly working with javascript and c++
-♫⋆｡♪₊˚♬ﾟ。 feel free to contact me at maarabrn@mail.uc.edu!
-♖ １０年ぐらい日本語を勉強しています！i hope to integrate Japanese more into my programs
+⊹ Hi my name is Rania Haas and I am a current undergraduate at the University of Cincinnati studying Computer Science Class of 2027
+with a minor in Japanese Language and Culture!
+I primarily work in C++, JavaScript, & Svelte while developing embedded systems avionics-related projects
+Feel free to read more in-depth on my overall projects [here](https://raniahaas.github.io/BlogItOut/)
+Reach out to me at haasr3@mail.uc.edu 
 
 <!---
 raniamaaraba/raniamaaraba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
